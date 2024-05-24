@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AbstractClassesAndMethods/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.AssemblyInfo.cs
+/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.AssemblyInfoInputs.cache
+/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.assets.cache
+/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.csproj.AssemblyReference.cache
+/AbstractClassesAndMethods/obj/Debug/net6.0/AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/AbstractClassesAndMethods/obj/Debug/net6.0/apphost.exe
